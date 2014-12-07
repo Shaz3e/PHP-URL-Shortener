@@ -7,7 +7,6 @@
 <form method="post" action="shorten.php" id="shortener">
 <label for="longurl">URL to shorten</label> <input type="text" name="longurl" id="longurl"> <input type="submit" value="Shorten">
 </form>
-</form>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 <script type="text/javascript">
 $(function () {
